@@ -1,0 +1,29 @@
+body{
+	background-color: black;
+	margin: 10px;
+	color: white;
+	display: flex;
+}
+a{
+	background-color: black;
+	color: white;
+    text-decoration: none;
+	border: none;
+
+}
+
+a:hover{
+background-color: red;
+color: whitesmoke;
+}
+img {
+	height: 250px;
+	width: 250px;
+	border-radius: 110000px;
+	box-shadow: 5px 5px 20px 40px rgb(119, 119, 2);
+
+}
+a{
+	color:white;
+	text-decoration: none;
+}
